@@ -1,0 +1,16 @@
+OrderRef,OrderDate,CustomerName,Product,Qty,Price
+WEB-501,2026-10-03,"Rao, Priya",USB-C Hub,1,1899.00
+WEB-502,2026-10-05,Menon Furnishings,Desk Lamp,1,799.00
+WEB-503,2026-10-07,D'Souza & Co,Keyboard,3,999.00
+WEB-504,2026-10-09,Khan Brothers,Laptop Stand,1,1250.00
+WEB-505,2026-10-11,"Pillai, Manoj",Keyboard,1,999.00
+WEB-506,2026-10-13,Joshi Stationers,USB-C Hub,1,1899.00
+WEB-507,2026-10-15,"Rao, Priya",USB-C Hub,2,1899.00
+WEB-508,2026-10-17,Menon Furnishings,Desk Lamp,3,799.00
+WEB-509,2026-10-19,D'Souza & Co,Office Chair,3,7500.00
+WEB-510,2026-10-21,Khan Brothers,Keyboard,3,999.00
+WEB-511,2026-10-23,"Pillai, Manoj",Office Chair,1,7500.00
+WEB-512,2026-10-25,Joshi Stationers,Office Chair,3,7500.00
+WEB-513,2026-10-27,"Rao, Priya",Desk Lamp,1,799.00
+WEB-514,2026-10-29,Menon Furnishings,Laptop Stand,2,1250.00
+WEB-515,2026-10-31,D'Souza & Co,Wireless Mouse,5,450.00
