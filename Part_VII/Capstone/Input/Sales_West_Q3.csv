@@ -1,0 +1,101 @@
+Order Ref,Order Date,Customer,Product,Qty,Unit Price,Status
+W-7001,01-Jul-2026,Mehta Retail,Keyboard,3,"999.00",Delivered
+W-7002,01-Jul-2026,Menon Enterprises,Monitor 24 inch,2,"11,999.00",Delivered
+W-7003,02-Jul-2026,Sharma Traders,Webcam HD,2,"2,499.00",Delivered
+W-7004,03-Jul-2026,Sharma Traders,Desk Lamp,2,"799.00",Delivered
+W-7005,04-Jul-2026,Joshi Retail,Webcam HD,2,"2,499.00",Pending
+W-7006,05-Jul-2026,Nair Retail,Laptop Stand,4,"1,250.00",Pending
+W-7007,06-Jul-2026,Iyer Traders,Webcam HD,3,"2,499.00",Delivered
+W-7008,07-Jul-2026,Nair Retail,Wireless Mouse,2,"450.00",Delivered
+N-7006,05-Jul-2026,Gupta Enterprises,USB-C Hub,8,"1,899.00",Delivered
+W-7010,09-Jul-2026,Mehta Retail,Office Chair,5,"7,500.00",Delivered
+W-7011,10-Jul-2026,Iyer Traders,Monitor 24 inch,3,"11,999.00",Delivered
+W-7012,11-Jul-2026,Gupta Enterprises,Keyboard,6,"999.00",Delivered
+W-7013,12-Jul-2026,Rao Traders,Laptop Stand,6,"1,250.00",Delivered
+W-7014,12-Jul-2026,Gupta Enterprises,Desk Lamp,2,"799.00",Delivered
+W-7015,13-Jul-2026,Sharma Traders,Keyboard,8,"999.00",Delivered
+W-7016,14-Jul-2026,Mehta Retail,Monitor 24 inch,2,"11,999.00",Cancelled
+W-7017,15-Jul-2026,Menon Enterprises,Office Chair,6,"7,500.00",Pending
+W-7018,16-Jul-2026,Kapoor Enterprises,Desk Lamp,8,"799.00",Pending
+W-7019,17-Jul-2026,Mehta Retail,Desk Lamp,4,"799.00",Delivered
+W-7020,18-Jul-2026,Singh Retail,Monitor 24 inch,2,"11,999.00",Delivered
+W-7021,19-Jul-2026,Kapoor Enterprises,USB-C Hub,1,"1,899.00",Cancelled
+W-7022,20-Jul-2026,Sharma Traders,Keyboard,2,"999.00",Delivered
+W-7023,21-Jul-2026,Rao Traders,Monitor 24 inch,3,"11,999.00",Delivered
+W-7024,22-Jul-2026,Mehta Retail,Monitor 24 inch,1,"11,999.00",Delivered
+W-7025,23-Jul-2026,Mehta Retail,Office Chair,2,"7,500.00",Delivered
+W-7026,24-Jul-2026,Kapoor Enterprises,Desk Lamp,4,"799.00",Delivered
+W-7027,24-Jul-2026,Das Enterprises,Office Chair,2,"7,500.00",Delivered
+W-7028,25-Jul-2026,Gupta Enterprises,Webcam HD,2,"2,499.00",Delivered
+W-7029,26-Jul-2026,Kapoor Enterprises,Desk Lamp,5,"799.00",Delivered
+W-7030,27-Jul-2026,Verma Traders,Desk Lamp,2,"799.00",Delivered
+W-7031,28-Jul-2026,Das Enterprises,Wireless Mouse,4,"450.00",Pending
+W-7032,29-Jul-2026,Iyer Traders,Desk Lamp,5,"799.00",Delivered
+W-7033,30-Jul-2026,Rao Traders,Keyboard,8,"999.00",Delivered
+W-7034,31-Jul-2026,Rao Traders,Office Chair,1,"7,500.00",Delivered
+W-7035,01-Aug-2026,Iyer Traders,USB-C Hub,2,"1,899.00",Pending
+W-7036,02-Aug-2026,Kapoor Enterprises,Desk Lamp,5,"799.00",Delivered
+W-7037,03-Aug-2026,Rao Traders,Webcam HD,5,"2,499.00",Pending
+W-7038,04-Aug-2026,Nair Retail,Office Chair,3,"7,500.00",Delivered
+W-7039,04-Aug-2026,Gupta Enterprises,Keyboard,5,"999.00",Delivered
+W-7040,05-Aug-2026,Das Enterprises,Monitor 24 inch,1,"11,999.00",Cancelled
+W-7041,06-Aug-2026,Verma Traders,WIRELESS MOUSE,5,"2,499.00",Delivered
+W-7042,07-Aug-2026,Nair Retail,Desk Lamp,6,"799.00",Delivered
+W-7043,08-Aug-2026,Joshi Retail,Keyboard,3,"999.00",Delivered
+W-7044,09-Aug-2026,Das Enterprises,Office Chair,5,"7,500.00",Delivered
+W-7045,10-Aug-2026,Kapoor Enterprises,USB-C Hub,4,"1,899.00",Delivered
+W-7046,11-Aug-2026,Mehta Retail,Monitor 24 inch,2,"11,999.00",Delivered
+W-7047,12-Aug-2026,Rao Traders,Webcam HD,4,"2,499.00",Pending
+W-7048,13-Aug-2026,Menon Enterprises,USB-C Hub,1,"1,899.00",Delivered
+W-7049,14-Aug-2026,Gupta Enterprises,Keyboard,1,"999.00",Delivered
+W-7050,15-Aug-2026,Mehta Retail,Laptop Stand,5,"1,250.00",Cancelled
+W-7051,16-Aug-2026,Mehta Retail,Monitor 24 inch,1,"11,999.00",Delivered
+W-7052,16-Aug-2026,Sharma Traders,Desk Lamp,1,"799.00",Delivered
+W-7053,17-Aug-2026,Rao Traders,Office Chair,5,"7,500.00",Pending
+W-7054,18-Aug-2026,Sharma Traders,Webcam HD,2,"2,499.00",Delivered
+W-7055,19-Aug-2026,Iyer Traders,Wireless Mouse,3,"450.00",Pending
+W-7056,20-Aug-2026,Verma Traders,Laptop Stand,6,"1,250.00",Delivered
+W-7057,21-Aug-2026,Verma Traders,Desk Lamp,8,"799.00",Delivered
+N-7089,12-Sep-2026,Kapoor Enterprises,Keyboard,6,"999.00",Delivered
+W-7059,23-Aug-2026,Singh Retail,Webcam HD,1,"2,499.00",Delivered
+W-7060,24-Aug-2026,Mehta Retail,Webcam HD,8,"2,499.00",Delivered
+W-7061,25-Aug-2026,Sharma Traders,Monitor 24 inch,2,"11,999.00",Pending
+W-7062,26-Aug-2026,Gupta Enterprises,USB-C Hub,1,"1,899.00",Delivered
+W-7063,27-Aug-2026,Das Enterprises,Laptop Stand,2,"1,250.00",Delivered
+W-7064,27-Aug-2026,Iyer Traders,Keyboard,6,"999.00",Delivered
+W-7065,28-Aug-2026,Joshi Retail,USB-C Hub,8,"1,899.00",Delivered
+W-7066,29-Aug-2026,Iyer Traders,Keyboard,8,"999.00",Delivered
+W-7067,30-Aug-2026,Iyer Traders,Wireless Mouse,3,"450.00",Delivered
+W-7068,31-Aug-2026,Das Enterprises,Monitor 24 inch,2,"11,999.00",Pending
+W-7069,01-Sep-2026,Gupta Enterprises,Monitor 24 inch,1,"11,999.00",Pending
+W-7070,02-Sep-2026,Nair Retail,Keyboard,4,"999.00",Pending
+W-7071,03-Sep-2026,Menon Enterprises,Office Chair,2,"7,500.00",Delivered
+W-7072,04-Sep-2026,Joshi Retail,Monitor 24 inch,3,"11,999.00",Delivered
+W-7073,05-Sep-2026,Sharma Traders,Keyboard,5,"999.00",Delivered
+W-7074,06-Sep-2026,Das Enterprises,Office Chair,3,"7,500.00",Delivered
+W-7075,07-Sep-2026,Joshi Retail,Laptop Stand,2,"1,250.00",Delivered
+W-7076,08-Sep-2026,Rao Traders,Keyboard,1,"999.00",Delivered
+W-7077,08-Sep-2026,Sharma Traders,Desk Lamp,5,"799.00",Pending
+W-7078,09-Sep-2026,Rao Traders,Webcam HD,3,"2,499.00",Delivered
+W-7079,10-Sep-2026,Mehta Retail,USB-C Hub,5,"1,899.00",Pending
+W-7080,11-Sep-2026,Rao Traders,Laptop Stand,4,"1,250.00",Delivered
+W-7081,12-Sep-2026,Iyer Traders,Desk Lamp,2,"799.00",Delivered
+W-7082,13-Sep-2026,Mehta Retail,Desk Lamp,2,"799.00",Delivered
+W-7083,14-Sep-2026,Singh Retail,Laptop Stand,2,"1,250.00",Delivered
+W-7084,15-Sep-2026,Mehta Retail,Webcam HD,3,"2,499.00",Cancelled
+W-7085,16-Sep-2026,Kapoor Enterprises,Laptop Stand,6,"1,250.00",Delivered
+W-7086,17-Sep-2026,Singh Retail,Laptop Stand,1,"1,250.00",Delivered
+W-7087,18-Sep-2026,Iyer Traders,Desk Lamp,4,"799.00",Delivered
+W-7088,19-Sep-2026,Kapoor Enterprises,Wireless Mouse,5,"450.00",Delivered
+W-7089,19-Sep-2026,Verma Traders,USB-C Hub,2,"1,899.00",Delivered
+W-7090,20-Sep-2026,Kapoor Enterprises,Wireless Mouse,2,"450.00",Pending
+W-7091,21-Sep-2026,Mehta Retail,Laptop Stand,5,"1,250.00",Delivered
+W-7092,22-Sep-2026,Singh Retail,Office Chair,3,"7,500.00",Pending
+W-7093,23-Sep-2026,Gupta Enterprises,Monitor 24 inch,2,"11,999.00",Delivered
+W-7094,24-Sep-2026,Joshi Retail,Webcam HD,2,"2,499.00",Delivered
+W-7095,25-Sep-2026,Mehta Retail,Keyboard,2,"999.00",Delivered
+W-7096,26-Sep-2026,Rao Traders,Desk Lamp,1,"799.00",Delivered
+W-7097,27-Sep-2026,Sharma Traders,Monitor 24 inch,1,"11,999.00",Delivered
+W-7098,28-Sep-2026,Nair Retail,USB-C Hub,8,"1,899.00",Delivered
+W-7099,29-Sep-2026,Sharma Traders,Keyboard,2,"999.00",Delivered
+W-7100,30-Sep-2026,Iyer Traders,Webcam HD,1,"2,499.00",Delivered

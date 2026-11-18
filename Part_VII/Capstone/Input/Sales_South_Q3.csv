@@ -1,0 +1,106 @@
+Order Ref,Order Date,Customer,Product,Qty,Unit Price,Status
+S-7001,2026-07-01,Kapoor Enterprises,USB-C Hub,6,1899.00,Pending
+S-7002,2026-07-01,Mehta Retail,Laptop Stand,2,1250.00,Delivered
+S-7003,2026-07-02,Sharma Traders,Monitor 24 inch,2,11999.00,Cancelled
+S-7004,2026-07-03,Menon Enterprises,Webcam HD,2,2499.00,Delivered
+S-7005,2026-07-04,Joshi Retail,Webcam HD,2,2499.00,Delivered
+S-7006,2026-07-05,Verma Traders,Wireless Mouse,3,450.00,Pending
+S-7007,2026-07-06,Nair Retail,USB-C Hub,3,1899.00,Delivered
+S-7008,2026-07-07,Menon Enterprises,USB-C Hub,4,1899.00,Delivered
+S-7009,2026-07-08,Gupta Enterprises,USB-C Hub,6,1899.00,Pending
+S-7010,2026-07-08,Gupta Enterprises,Office Chair,6,7500.00,Delivered
+S-7011,2026-07-09,Verma Traders,Webcam HD,2,2499.00,Delivered
+S-7012,2026-07-10,Menon Enterprises,Wireless Mouse,1,450.00,Delivered
+S-7013,2026-07-11,Nair Retail,Keyboard,abc,999.00,Delivered
+S-7014,2026-07-12,Kapoor Enterprises,Office Chair,1,7500.00,Delivered
+S-7015,2026-07-13,Kapoor Enterprises,Desk Lamp,4,799.00,Delivered
+S-7016,2026-07-14,Verma Traders,Monitor 24 inch,1,11999.00,Delivered
+S-7017,2026-07-15,Nair Retail,Webcam HD,1,2499.00,Delivered
+S-7018,2026-07-15,Mehta Retail,Keyboard,4,999.00,Delivered
+S-7019,2026-07-16,Nair Retail,USB-C Hub,2,1899.00,Pending
+S-7020,2026-07-17,Sharma Traders,Keyboard,2,999.00,Delivered
+S-7021,2026-07-18,Iyer Traders,Webcam HD,2,2499.00,Delivered
+S-7022,2026-07-19,Sharma Traders,Webcam HD,2,2499.00,Delivered
+S-7023,2026-07-20,Verma Traders,Laptop Stand,2,1250.00,Cancelled
+S-7024,2026-07-21,Das Enterprises,Office Chair,1,7500.00,Delivered
+S-7025,2026-07-22,Rao Traders,Webcam HD,4,2499.00,Delivered
+S-7026,2026-07-22,Joshi Retail,Office Chair,4,7500.00,Delivered
+S-7027,2026-07-23,Rao Traders,Monitor 24 inch,3,11999.00,Delivered
+S-7028,2026-07-24,Kapoor Enterprises,Monitor 24 inch,1,11999.00,Pending
+S-7029,2026-07-25,Kapoor Enterprises,Wireless Mouse,2,450.00,Delivered
+S-7030,2026-07-26,Singh Retail,Webcam HD,5,2499.00,Delivered
+S-7031,2026-07-27,Singh Retail,Keyboard,3,799.20,Delivered
+S-7032,2026-07-28,Iyer Traders,Desk Lamp,1,799.00,Delivered
+S-7033,2026-07-29,Joshi Retail,Laptop Stand,6,1250.00,Delivered
+S-7034,2026-07-29,Sharma Traders,Desk Lamp,4,799.00,Delivered
+S-7035,2026-07-30,Joshi Retail,USB-C Hub,4,1899.00,Delivered
+S-7036,2026-07-31,Sharma Traders,Monitor 24 inch,1,11999.00,Delivered
+S-7037,2026-08-01,Verma Traders,Desk Lamp,1,799.00,Delivered
+S-7038,2026-08-02,Verma Traders,Monitor 24 inch,3,11999.00,Delivered
+S-7039,2026-08-03,Mehta Retail,Monitor 24 inch,3,11999.00,Delivered
+S-7040,2026-08-04,Menon Enterprises,Office Chair,2,7500.00,Delivered
+S-7041,2026-08-05,Verma Traders,Wireless Mouse,4,450.00,Delivered
+S-7042,2026-08-05,Verma Traders,Keyboard,2,999.00,Delivered
+S-7043,2026-08-06,Nair Retail,USB-C Hub,4,1899.00,Pending
+S-7044,2026-08-07,Gupta Enterprises,Wireless Mouse,8,450.00,Delivered
+S-7045,2026-08-08,Sharma Traders,Wireless Mouse,-2,450.00,Returned
+S-7046,2026-08-09,Singh Retail,Webcam HD,1,2499.00,Delivered
+S-7047,2026-08-10,Iyer Traders,USB-C Hub,8,1899.00,Delivered
+S-7048,2026-08-11,Rao Traders,Laptop Stand,4,1250.00,Delivered
+S-7049,2026-08-12,Sharma Traders,Office Chair,4,7500.00,Pending
+S-7050,2026-08-12,Kapoor Enterprises,Laptop Stand,1,1250.00,Delivered
+S-7051,2026-08-13,Sharma Traders,Laptop Stand,5,1250.00,Delivered
+S-7052,2026-08-14,Das Enterprises,Wireless Mouse,6,450.00,Delivered
+S-7053,2026-08-15,Iyer Traders,USB-C Hub,2,1899.00,Delivered
+S-7054,2026-08-16,Singh Retail,Wireless Mouse,5,450.00,Cancelled
+S-7055,2026-08-17,Nair Retail,Wireless Mouse,5,450.00,Delivered
+S-7056,2026-08-18,Nair Retail,Desk Lamp,6,799.00,Delivered
+S-7057,2026-08-19,Sharma Traders,Webcam HD,4,2499.00,Delivered
+S-7058,2026-08-19,Nair Retail,Laptop Stand,1,1250.00,Delivered
+S-7059,2026-08-20,Das Enterprises,Laptop Stand,8,1250.00,Delivered
+S-7060,2026-08-21,Mehta Retail,Monitor 24 inch,3,11999.00,Delivered
+S-7061,2026-08-22,Iyer Traders,Desk Lamp,2,799.00,Delivered
+S-7062,2026-08-23,Singh Retail,USB-C Hub,4,1899.00,Delivered
+S-7063,2026-08-24,Singh Retail,USB-C Hub,4,1899.00,Pending
+S-7064,2026-08-25,Joshi Retail,Webcam HD,2,2499.00,Delivered
+S-7065,2026-08-26,Iyer Traders,Wireless Mouse,4,450.00,Delivered
+S-7066,2026-08-26,Iyer Traders,Wireless Mouse,2,450.00,Delivered
+S-7067,2026-08-27,Kapoor Enterprises,Webcam HD,5,2499.00,Delivered
+S-7068,2026-08-28,Joshi Retail,Wireless Mouse,5,450.00,Delivered
+S-7069,2026-08-29,Menon Enterprises,USB-C Hub,5,1899.00,Delivered
+S-7070,2026-08-30,Mehta Retail,USB-C Hub,2,1899.00,Delivered
+S-7071,2026-08-31,Menon Enterprises,Wireless Mouse,3,450.00,Delivered
+S-7072,2026-09-01,Singh Retail,Office Chair,-1,7500.00,Returned
+S-7073,2026-09-02,Mehta Retail,Webcam HD,8,2499.00,Delivered
+S-7074,2026-09-02,Gupta Enterprises,Desk Lamp,2,799.00,Delivered
+S-7075,2026-09-03,Gupta Enterprises,Desk Lamp,3,799.00,Delivered
+S-7076,2026-09-04,Das Enterprises,USB-C Hub,3,1899.00,Delivered
+S-7077,2026-09-05,Das Enterprises,Laptop Stand,3,1250.00,Delivered
+S-7078,2026-09-06,Menon Enterprises,Office Chair,2,7500.00,Delivered
+S-7079,2026-09-07,Singh Retail,Laptop Stand,3,1250.00,Delivered
+S-7080,2026-09-08,Singh Retail,Office Chair,5,7500.00,Delivered
+S-7081,2026-09-09,Singh Retail,Office Chair,2,7500.00,Delivered
+S-7082,2026-09-09,Menon Enterprises,Laptop Stand,6,1250.00,Delivered
+S-7083,2026-09-10,Kapoor Enterprises,Office Chair,3,7500.00,Delivered
+S-7084,2026-09-11,Mehta Retail,Webcam HD,8,2499.00,Delivered
+S-7085,2026-09-12,Mehta Retail,Office Chair,3,7500.00,Delivered
+S-7086,2026-09-13,Gupta Enterprises,Office Chair,4,7500.00,Delivered
+S-7087,2026-09-14,Joshi Retail,Desk Lamp,8,799.00,Cancelled
+S-7088,2026-09-15,Gupta Enterprises,Keyboard,2,999.00,Delivered
+S-7089,2026-09-16,Sharma Traders,Wireless Mouse,5,450.00,Delivered
+S-7090,2026-09-16,Sharma Traders,USB-C Hub,3,1899.00,Delivered
+S-7091,2026-09-17,Mehta Retail,Webcam HD,5,2499.00,Delivered
+S-7092,2026-09-18,Nair Retail,Office Chair,1,7500.00,Delivered
+S-7093,2026-09-19,Mehta Retail,Wireless Mouse,3,450.00,Cancelled
+S-7094,2026-09-20,Sharma Traders,Desk Lamp,3,799.00,Delivered
+S-7095,2026-09-21,Rao Traders,Office Chair,6,7500.00,Delivered
+S-7096,2026-09-22,Nair Retail,Wireless Mouse,2,450.00,Delivered
+S-7097,2026-09-23,Menon Enterprises,Office Chair,6,7500.00,Delivered
+S-7098,2026-09-23,Iyer Traders,Desk Lamp,2,799.00,Cancelled
+S-7099,2026-09-24,Joshi Retail,Webcam HD,5,2499.00,Delivered
+S-7100,2026-09-25,Rao Traders,Laptop Stand,3,1250.00,Delivered
+S-7101,2026-09-26,Kapoor Enterprises,Laptop Stand,6,1250.00,Delivered
+S-7102,2026-09-27,Menon Enterprises,Desk Lamp,2,799.00,Delivered
+S-7103,2026-09-28,Verma Traders,Desk Lamp,2,799.00,Delivered
+S-7104,2026-09-29,Gupta Enterprises,Desk Lamp,3,799.00,Delivered
+S-7105,2026-09-30,Rao Traders,Office Chair,8,7500.00,Delivered
